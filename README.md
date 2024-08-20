@@ -36,7 +36,7 @@ Pré-requisitos:
 
     Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
 
-2.**Criando a Classe iPhone**: Implementa as interfaces `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`
+2.**Criando a Classe Iphone**: Implementa as interfaces `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`
 
 3.**Implementando as Interfaces na IDE do Visual Studio Code**
 
